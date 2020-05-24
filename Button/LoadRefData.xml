@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Button xmlns:sch="http://aiaf.com/schemas" name="LoadRefData">
+    <sch:seqIndex>10</sch:seqIndex>
+    <sch:name>LoadRefData</sch:name>
+    <sch:label>Load Ref Data</sch:label>
+    <sch:behavior>ExecuteMethod</sch:behavior>
+    <sch:bmfTransactionName>LoadRefData</sch:bmfTransactionName>
+    <sch:content></sch:content>
+    <sch:appliesTo>Collection</sch:appliesTo>
+    <sch:securityToken></sch:securityToken>
+    <sch:description></sch:description>
+    <sch:bmfTransaction isRef="true">LoadRefData</sch:bmfTransaction>
+</sch:Button>

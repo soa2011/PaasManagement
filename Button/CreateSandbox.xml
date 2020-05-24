@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Button xmlns:sch="http://aiaf.com/schemas" name="CreateSandbox">
+    <sch:seqIndex>9</sch:seqIndex>
+    <sch:name>CreateSandbox</sch:name>
+    <sch:label>Create Sandbox</sch:label>
+    <sch:behavior>ExecuteMethod</sch:behavior>
+    <sch:bmfTransactionName>CreateSandbox</sch:bmfTransactionName>
+    <sch:content></sch:content>
+    <sch:appliesTo>Collection</sch:appliesTo>
+    <sch:securityToken></sch:securityToken>
+    <sch:description></sch:description>
+    <sch:bmfTransaction isRef="true">CreateSandbox</sch:bmfTransaction>
+</sch:Button>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Button xmlns:sch="http://aiaf.com/schemas" name="ResetAllShardings">
+    <sch:seqIndex>14</sch:seqIndex>
+    <sch:name>ResetAllShardings</sch:name>
+    <sch:label>ResetAllShardings</sch:label>
+    <sch:behavior>ExecuteMethod</sch:behavior>
+    <sch:bmfTransactionName>ResetAllShardings</sch:bmfTransactionName>
+    <sch:content></sch:content>
+    <sch:appliesTo>Collection</sch:appliesTo>
+    <sch:securityToken></sch:securityToken>
+    <sch:description></sch:description>
+    <sch:bmfTransaction isRef="true">ResetAllShardings</sch:bmfTransaction>
+</sch:Button>
